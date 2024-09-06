@@ -1,6 +1,6 @@
 # 📊 **Candidate Joining Prediction in Talent Acquisition**
 
-![Talent Acquisition](images/Designer.png)
+![Talent Acquisition](images/Designer1.png)
 
 Welcome to the **Candidate Joining Prediction in Talent Acquisition** project! 👥 This repository highlights our efforts to address a critical challenge in the talent acquisition process—predicting whether candidates will join a company after accepting a job offer. Accurately forecasting candidate behavior allows HR teams to mitigate the risk of attrition, optimize recruitment strategies, and ultimately save valuable resources.
 
