@@ -11,29 +11,35 @@ HRWorks Pvt Ltd, a talent acquisition solutions provider, has faced a recurring 
 ## 🛠️ **Project Approach**
 
 ### 1. **Exploratory Data Analysis (EDA)**
-   - 📊 Analyzed the dataset to uncover key trends and relationships between variables.
-   - 🧹 Identified and handled missing values, outliers, and inconsistencies in the data.
-   - 🔍 Conducted correlation analysis and feature engineering to enhance model performance.
+
+- 📊 Analyzed the dataset to uncover key trends and relationships between variables.
+- 🧹 Identified and handled missing values, outliers, and inconsistencies in the data.
+- 🔍 Conducted correlation analysis and feature engineering to enhance model performance.
 
 ### 2. **Data Preprocessing**
-   - 🔄 Scaled and encoded features to prepare the data for model training.
-   - 🧪 Split the dataset into training and testing sets to ensure unbiased model evaluation.
+
+- 🔄 Scaled and encoded features to prepare the data for model training.
+- 🧪 Split the dataset into training and testing sets to ensure unbiased model evaluation.
 
 ### 3. **Model Training**
-   - 🤖 Experimented with multiple classification algorithms including Logistic Regression, Random Forest, and XGBoost.
-   - 🧠 Performed hyperparameter tuning to optimize model performance.
+
+- 🤖 Experimented with multiple classification algorithms including Logistic Regression, Random Forest, and XGBoost.
+- 🧠 Performed hyperparameter tuning to optimize model performance.
 
 ### 4. **Model Evaluation**
-   - 🏅 Assessed models using key metrics such as Accuracy, ROC AUC, and F1 Score.
-   - ✅ Selected the best-performing models based on both training and testing performance.
+
+- 🏅 Assessed models using key metrics such as Accuracy, ROC AUC, and F1 Score.
+- ✅ Selected the best-performing models based on both training and testing performance.
 
 ### 5. **Feature Importance**
-   - 🌟 Conducted feature importance analysis to identify key factors influencing candidate decisions.
-   - 🎯 Focused on the most impactful features to refine the model and improve interpretability.
+
+- 🌟 Conducted feature importance analysis to identify key factors influencing candidate decisions.
+- 🎯 Focused on the most impactful features to refine the model and improve interpretability.
 
 ### 6. **Model Deployment**
-   - 🚀 Deployed the final model to assist HR teams in making data-driven decisions.
-   - 📊 Integrated the model into the recruitment process to provide real-time predictions.
+
+- 🚀 Deployed the final model to assist HR teams in making data-driven decisions.
+- 📊 Integrated the model into the recruitment process to provide real-time predictions.
 
 ## 🌟 **Key Highlights**
 
